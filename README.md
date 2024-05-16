@@ -1,4 +1,8 @@
+# EXP-3
+# DATE:26/303/24
+
 # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+
 # AIM:
  To simulate and synthesis multiplier using vivado.
 # APPARATUS REQUIRED:
